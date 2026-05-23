@@ -14,6 +14,8 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+
+
 📂 Dataset Features
 
 The dataset includes:
@@ -28,10 +30,14 @@ Engine Size
 Transmission
 Number of Doors
 Weight
+
 🔍 Project Workflow
+
+
 1. Data Loading
 
 Imported the Toyota dataset using Pandas for analysis.
+
 
 2. Data Cleaning
 
@@ -41,6 +47,8 @@ Handling missing values
 Removing duplicates
 Checking data types
 Preparing clean data for analysis
+
+
 3. Exploratory Data Analysis (EDA)
 
 Performed analysis to identify:
@@ -50,6 +58,8 @@ Fuel type comparisons
 Mileage trends
 Relationship between age and price
 Correlation between vehicle features
+
+
 📊 Visualizations
 
 Created charts and graphs including:
@@ -59,6 +69,8 @@ Histograms
 Scatter Plots
 Boxplots
 Correlation Heatmaps
+
+
 🎯 Key Outcome
 
 This project demonstrates a complete workflow of Data Cleaning → Data Analysis → Data Visualization using real-world Toyota car data and provides meaningful insights into factors affecting car prices and performance.
